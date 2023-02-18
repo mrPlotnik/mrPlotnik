@@ -14,7 +14,7 @@
 ## ___Hi there, I'm a Frontend Developer!___ 👋
 
 - 🔭 I’m currently working on Vue.js
-- 🌱 I’m currently learning Nuxt.js
+- 🌱 I’m currently learning Nuxt.js and Vue Storefront
 - ⚡ Fun fact: Before that, I worked as a slinger
 
 ### Languages and Tools
