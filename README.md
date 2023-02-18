@@ -14,8 +14,8 @@
 ## ___Hi there, I'm a Frontend Developer!___ 👋
 
 - 🔭 I’m currently working on Vue.js
-- 👯 Before that, I worked as a slinger
-- ⚡ Люблю решать разные задачи и учиться новому
+- 🌱 I’m currently learning Nuxt.js
+- ⚡ Fun fact: Before that, I worked as a slinger
 
 ### Languages and Tools
 
@@ -34,11 +34,12 @@
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPlotnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPlotnik)](https://github.com/anuraghazra/github-readme-stats)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
 
 ### Social networks:
 
-[<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/1384/1384055.png" />](https://wa.me/89037895264)
-[<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/izmailova_anastasya/)
-[<img align="left" alt="CodeWars" width="150px" src="https://www.codewars.com/users/IzmailovaAnaztasya/badges/micro" />](https://www.codewars.com/users/IzmailovaAnaztasya)
