@@ -35,10 +35,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPlotnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrPlotnik&theme=solarized_dark)
 
 Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrPlotnik&theme=solarized_dark)
 
 
 ### Social networks:
