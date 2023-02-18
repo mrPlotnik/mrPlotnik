@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**mrPlotnik/mrPlotnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,12 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ___Hi there, I'm a Junior Frontend Developer!___ 👋
+## ___Hi there, I'm a Frontend Developer!___ 👋
 
-<!-- **IzmailovaAnaztasya/izmailovaAnaztasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🌱 Начинающий IT-специалист 
-- 👯 До этого работала инженером-проектировщиком
+- 🔭 I’m currently working on Vue.js
+- 👯 Before that, I worked as a slinger
 - ⚡ Люблю решать разные задачи и учиться новому
 
 ### Languages and Tools
@@ -36,6 +30,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPlotnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrPlotnik)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social networks:
 
